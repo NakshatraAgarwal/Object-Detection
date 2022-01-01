@@ -1,0 +1,26 @@
+.heading{
+    font-size:25px;
+    margin:0px;
+    width:100%;
+}
+hr{
+    width:50%;
+    border-top: 1px solid black;
+}
+
+.button{
+    width:100px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px black;
+    border-radius:10px;
+}
+
+#button{
+
+    width:150px;
+    position:fixed;
+    margin-top:600px;
+    margin-left:-150px;
+}
